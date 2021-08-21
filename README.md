@@ -1,5 +1,7 @@
 # MeetroomApp
 
+This project has been created to interact with meetroom-api in order to simulate a schedule meetroom created during live code dio.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.
 
 ## Development server
